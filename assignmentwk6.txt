@@ -1,0 +1,15 @@
+As an: Admin
+I want to: change the headline on the homepage
+So that: I don’t have to depend on a developer for making changes to the homepage
+
+As an: Admin
+I want to: change the video image
+So that: I don’t have to depend on a developer for making changes to the homepage
+
+As an: Admin
+I want to: add blog posts and have them show up on the homepage
+So that: I don’t have to depend on a developer for making changes to the homepage
+
+[3:43]
+Other notes:
+Do not use scaffolds. Your app should support file uploads. Consider using paperclip.
